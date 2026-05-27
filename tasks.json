@@ -1,0 +1,32 @@
+[
+    {
+        "task": "Complete Python Project",
+        "priority": "High",
+        "due": "30-05-2026",
+        "status": "\u231b Pending"
+    },
+    {
+        "task": "Upload Project to GitHub",
+        "priority": "medium",
+        "due": "31-05-2026",
+        "status": "\u231b Pending"
+    },
+    {
+        "task": "Prepare Portfolio Website",
+        "priority": "High",
+        "due": "03-06-2026",
+        "status": "\u231b Pending"
+    },
+    {
+        "task": "Practice DSA problems",
+        "priority": "High",
+        "due": "10-06-2026",
+        "status": "\u231b Pending"
+    },
+    {
+        "task": "Update Resume",
+        "priority": "Medium",
+        "due": "12-06-2026",
+        "status": "\u231b Pending"
+    }
+]
