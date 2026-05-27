@@ -44,7 +44,8 @@ python main.py
 
 ## 📸 Project Preview
 
-Smart terminal-based task management system with colorful UI and analytics.
+<img width="1919" height="1025" alt="Screenshot 2026-05-27 134718" src="https://github.com/user-attachments/assets/2098822d-7c69-43ef-b4c7-e264cd85f1e8" />
+
 
 ---
 
